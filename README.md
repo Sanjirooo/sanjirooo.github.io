@@ -1,2 +1,2 @@
-# sanjirooo.github.io
+# sanjiro-portofolio
 Personal Portofolio Website
